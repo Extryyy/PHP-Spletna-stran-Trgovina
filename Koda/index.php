@@ -144,12 +144,19 @@
             </div>
             <div class = "img-container">
             <img src = "/Slike/mainslika.jfif">
+<<<<<<< HEAD
 
             </div>
         </div>
     </div>
 
        
+=======
+            </div>
+        </div>
+    </div>
+sdsadsa
+>>>>>>> 73e9f9f7fd320782a277272f4d28d68e45c3f911
     </main>
 
     <footer>
